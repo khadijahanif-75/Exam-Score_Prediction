@@ -41,16 +41,16 @@ The frontend is built using Streamlit, allowing users to:
   streamlit run app.py
 
 **Installation & Setup**
-1- Clone the repository
+1- Clone the repository<br />
 git clone https://github.com/your-username/student-exam-prediction.git
 
-2- Navigate to the project folder
+2- Navigate to the project folder<br />
 cd Exam_Score_Prediction
 
-3- Run the application
+3- Run the application<br />
 streamlit run app.py
 
-**Technologies Used**
+**Technologies Used**<br />
   Python
   Pandas
   NumPy
@@ -60,5 +60,5 @@ streamlit run app.py
   Streamlit
   Jupyter Notebook
 
-**Author**
+**Author**<br />
 Khadija Hanif
