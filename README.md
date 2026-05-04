@@ -4,40 +4,40 @@ This project predicts student exam scores using a Machine Learning model built i
 The goal is to analyze student-related factors and estimate exam performance based on historical data.
 The project includes data analysis, model training, and a user-friendly web interface for predictions.
 
-**Project Overview**
-**Dataset:** Kaggle Student Performance Dataset
-**Machine Learning Model:** Linear Regression
-**EDA (Exploratory Data Analysis):** Performed using Python notebooks
-**Frontend Interface:** Built with Streamlit
+**Project Overview**<br />
+**Dataset:** Kaggle Student Performance Dataset<br />
+**Machine Learning Model:** Linear Regression<br />
+**EDA (Exploratory Data Analysis):** Performed using Python notebooks<br />
+**Frontend Interface:** Built with Streamlit<br />
 **Language Used:** Python
 
-**Project Structure**
-Exam-Score-Prediction/
-├── student_habits_performance.csv        # Dataset from Kaggle
-├── eda.ipynb                   # Exploratory Data Analysis
-├── exam_score_prediction.ipynb                    # Model training & prediction logic
-├── app.py                      # Streamlit frontend application       
-└── README.md                   # Project documentation
+**Project Structure**<br />
+Exam-Score-Prediction/<br />
+├── student_habits_performance.csv        # Dataset from Kaggle<br />
+├── eda.ipynb                   # Exploratory Data Analysis<br />
+├── exam_score_prediction.ipynb                    # Model training & prediction logic<br />
+├── app.py                      # Streamlit frontend application<br />    
+└── README.md                   # Project documentation<br />
 
-**Exploratory Data Analysis (EDA)**
-  The eda.ipynb file contains:
-  Dataset overview and cleaning
-  Handling missing values
-  Feature analysis
-  Correlation analysis
-  Visualizations using Matplotlib & Seaborn
-  Insights used for model building
+**Exploratory Data Analysis (EDA)**<br />
+  The eda.ipynb file contains:<br />
+  Dataset overview and cleaning<br />
+  Handling missing values<br />
+  Feature analysis<br />
+  Correlation analysis<br />
+  Visualizations using Matplotlib & Seaborn<br />
+  Insights used for model building<br />
 
-**Machine Learning Model**
+**Machine Learning Model**<br />
 **Algorithm Used:** Linear Regression
 
-**Streamlit Web App**
+**Streamlit Web App**<br />
 The frontend is built using Streamlit, allowing users to:
   Enter student-related inputs
   Get predicted exam scores instantly
   Interact with the model through a clean UI
 
-**To run the Streamlit app:**
+**To run the Streamlit app:**<br />
   streamlit run app.py
 
 **Installation & Setup**
